@@ -1,5 +1,5 @@
 {
-  "name": "josh/laravel-terminal",
+  "name": "mprince/laravel-terminal-execution",
   "type": "library",
   "keywords": ["laravel", "Terminal", "php-shellcommand", "command"],
   "description": "Terminal shell command in laravel",
